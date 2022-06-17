@@ -18,7 +18,6 @@ Excel was utilized as the primary software to analyze and visualze data.  Specif
 
 ### Challenges and Difficulties Encountered
 Challenges experienced were scrubbing the formula's to make sure any potential errors were caught and corrected. 
-..........
 
 ## Results
 - Outcomes Based on Launch Date
