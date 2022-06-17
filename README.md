@@ -20,11 +20,11 @@ Excel was utilized as the primary software to analyze and visualze data.  Specif
 Challenges experienced were scrubbing the formula's to make sure any potential errors were caught and corrected. 
 
 ## Results
-- Outcomes based on launch date
+- Outcomes based on launch date:
 Through analysis of charted data, launching theater campaigns in May was the most succesful Month, followed by June and July. It is recomended that client launches future theater campaigns during the late spring and summer months to achieve the most successful goal outcomes.
 
 
-- Outcomes based on goals
+- Outcomes based on goals:
 Through analysis of charted data, campaigns in the (less than $1,000) and ($1,000 to $4,999) goals were the most sucessful in reaching a successful outcome of 76%.  Followed by campaigns in the ($35,000 to $39,999) and ($40,000 to $44,999) goals at a 67% success outcome.
 
 - What are some limitations of this dataset?
