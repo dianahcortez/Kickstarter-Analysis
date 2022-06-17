@@ -26,7 +26,7 @@ Through analysis of charted data, launching Theater Campaigns in May was the mos
 
 
 - Outcomes based on Goals
-Through analysis of charted data, campaigns in the (less than 1,000) and (1,000 to 4,999) goals were the most sucessful in reaching a successful outcome of 76%.  Followed by campaigns in the (35,000 to 39,999) and (40,000 to 44,999) goals at a 67% success outcome.
+Through analysis of charted data, campaigns in the (less than $1,000) and ($1,000 to $4,999) goals were the most sucessful in reaching a successful outcome of 76%.  Followed by campaigns in the ($35,000 to $39,999) and ($40,000 to $44,999) goals at a 67% success outcome.
 
 - What are some limitations of this dataset?
 Limitations of this data set include a potential lack of reliable data such as self-repoting data.  Recomendations for future analysis would be having a 3rd party gather the data to ensure data reliability.
