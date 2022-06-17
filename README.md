@@ -31,4 +31,4 @@ Through analysis of charted data, campaigns in the (less than $1,000) and ($1,00
 Limitations of this data set include a potential lack of reliable data such as self-repoting data.  Recomendations for future analysis would be having a 3rd party gather the data to ensure data reliability.
 
 - What are some other possible tables and/or graphs that we could create?
-Reccommended further analysis of failed outcomes, which made up 36% of outcomes, recomend analysis of staff pick and spotlight (True vs False).
+Recommend further analysis of failed outcomes, which made up 36% of outcomes, recomend analysis of staff pick and spotlight (True vs False).
