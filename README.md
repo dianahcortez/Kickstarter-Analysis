@@ -21,7 +21,7 @@ Challenges experienced were scrubbing the formula's to make sure any potential e
 
 ## Results
 - Outcomes based on launch date:
-Through analysis of charted data, launching theater campaigns in May was the most succesful Month, followed by June and July. It is recomended that client launches future theater campaigns during the late spring and summer months to achieve the most successful goal outcomes.
+Through analysis of charted data, launching theater campaigns in May was the most succesful month, followed by June and July. It is recomended that client launches future theater campaigns during the late spring and summer months to achieve the most successful goal outcomes.
 
 
 - Outcomes based on goals:
@@ -31,4 +31,4 @@ Through analysis of charted data, campaigns in the (less than $1,000) and ($1,00
 Limitations of this data set include a potential lack of reliable data such as self-repoting data.  Recomendations for future analysis would be having a 3rd party gather the data to ensure data reliability.
 
 - What are some other possible tables and/or graphs that we could create?
-Recommended further analysis of failed outcomes, which made up 36% of outcomes, recomend analysis of staff pick and spotlight (True vs False).
+Reccommended further analysis of failed outcomes, which made up 36% of outcomes, recomend analysis of staff pick and spotlight (True vs False).
