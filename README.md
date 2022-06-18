@@ -11,10 +11,10 @@ The purpose of this analysis is to provide visualization to the client on outcom
 Excel was utilized as the primary software to analyze and visualize data.  Specifically used pivot tables, data sorting and line charts to visualize findings.
 
 ### Analysis of Outcomes Based on Launch Date
-<img width="327" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/104927745/174410495-bd867c17-ee0b-44fe-92d2-9094d8a9cad5.png">
+<img width="328" alt="Theater Outcome vs Launch" src="https://user-images.githubusercontent.com/104927745/174421491-4661b581-496a-4a05-a154-af7561e34a4c.png">
 
 ### Analysis of Outcomes Based on Goals
-<img width="353" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/104927745/174410508-bc3de830-dc6d-4dfb-8c63-8092b8a7dfd8.png">
+<img width="353" alt="Outcomes vs Goals" src="https://user-images.githubusercontent.com/104927745/174421496-8c5b45ca-8e03-44ec-b90b-e1242d7a8760.png">
 
 ### Challenges and Difficulties Encountered
 Challenges experienced were scrubbing the formulas to make sure any potential errors were caught and corrected. 
