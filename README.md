@@ -8,7 +8,7 @@ Client presented with a data set of campaigns needing to be analyzed in their re
 The purpose of this analysis is to provide visualization to the client on outcomes based on their launch dates and funding goals.
 
 ## Analysis
-Excel was utilized as the primary software to analyze and visualze data.  Specifically used pivot tables, data sorting and line charts to visualize findings.
+Excel was utilized as the primary software to analyze and visualize data.  Specifically used pivot tables, data sorting and line charts to visualize findings.
 
 ### Analysis of Outcomes Based on Launch Date
 <img width="327" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/104927745/174410495-bd867c17-ee0b-44fe-92d2-9094d8a9cad5.png">
